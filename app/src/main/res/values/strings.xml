@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MedcordsAssignment</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="setting">Setting</string>
+    <string name="listTitle">Item : %s</string>
+    <string name="buttonText">B%d</string>
+
+</resources>
